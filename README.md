@@ -167,7 +167,8 @@ urlpatterns = [
 
 ```
 # SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2024-12-08 060744-2.png>)
+![Screenshot 2024-12-08 060917](https://github.com/user-attachments/assets/91558f23-5874-4950-ace5-97204e5b2055)
+
 # HOMEPAGE:
 ![alt text](<Screenshot 2024-12-08 060744-1.png>)
 # RESULT:
